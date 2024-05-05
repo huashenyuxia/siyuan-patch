@@ -44,6 +44,5 @@ index 3a62b3e68cab5e05e3e5a3c393e751a3f9e78f5f..2a73de9a05914d1a04f381398ab5fd74
 -            resValue "string", "app_name", "SiYuan-Debug"
 +            resValue "string", "app_name", "SiYuan"
              resValue "string", "app_package_name", "org.b3log.siyuan.debug"
-             resValue "string", "app_package_name", "org.b3log.siyuan"
              proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
          }
